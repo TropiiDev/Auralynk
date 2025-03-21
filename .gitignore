@@ -1,6 +1,9 @@
 .venv/
 .idea/
-
+__pycache__/
+/youtube/__pycache__/
+/spotify/__pycache__/
+/api/__pycache__/
 /downloads/
 /api/database.db
 /spotify/time.txt
