@@ -21,7 +21,6 @@ THIS IS NOT THE FINAL APP. THIS IS ONCE AGAIN JUST SAMPLE CODE FOR A MUCH LARGER
 # -------------------------------------
 ## Soon to be created:
 ### This list is in order from most important to least
-- Auralynk API - Semi completed. Only user auth is finished. (see the API folder. It will be moved to its own repo once its finished.)
 - Auralynk Desktop Application
 - Auralynk Mobile Application
 # -------------------------------------
@@ -33,6 +32,9 @@ THIS IS NOT THE FINAL APP. THIS IS ONCE AGAIN JUST SAMPLE CODE FOR A MUCH LARGER
 ## Versioning layout
 - Major.Minor.Patch
 - [Semver](https://semver.org)
+# -------------------------------------
+## Other Projects
+- [Auralynk API](https://github.com/TropiiDev/Auralynk-API) - The API for Auralynk
 # -------------------------------------
 ### Credits:
 In the youtube_functions.py file, a heavily modified portion of the code was taken from [Mohammed Gamel](https://gist.github.com/Mohammed-Gamal/42089986026b59dce17b317452e10549#file-youtube_downloader-py).
